@@ -1,4 +1,3 @@
-Nama Lengkap  : Ferdinand Zulvan Lindan
+Nama          : Ferdinand Zulvan Lindan
 NIM           : 121140170
-Kelas Siakad  : RB
-Kelas Prak    : RB
+Kelas         : RB
